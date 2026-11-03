@@ -1,7 +1,7 @@
 ---
 name : 사용자 스토리
 about : 누가, 무엇을 왜 원하는지 요구사항
-title: : "[스토리] "
+title: "[스토리] "
 labels : 기능
 assigness : ''
 ---
